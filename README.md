@@ -1,5 +1,3 @@
-## Hello there ! 😄
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=833BD4&background=000000F8&center=true&random=false&width=1000&height=100&lines=Hello+there+!+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+Eudes+Charles;A+passionate+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+254-Kenya" alt="Typing SVG" /></a>
 
 <table>
@@ -11,7 +9,7 @@
         <img src="https://komarev.com/ghpvc/?username=eude313&label=Profile%20views&color=0e75b6&style=flat" alt="eude313" />
     </th>
     <th>
-        <a href="https://www.buymeacoffee.com/Eudes Charles"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Eudes Charles" /></a>
+        <a href="https://www.buymeacoffee.com/eudes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Eudes Charles" /></a>
     </th>
   </tr>
 </table>
