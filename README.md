@@ -1,9 +1,11 @@
-<table>
-<tr>
-<th> <strong> Hello there ! 😄</strong></th>
-<th><a href="https://www.buymeacoffee.com/Eudes Charles"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Eudes Charles" /></a></th>
-</tr>
-</table>
+<diV>
+    <div align="left">
+        <strong> Hello there ! 😄</strong>
+    </div>
+    <div  align="right">
+        <a href="https://www.buymeacoffee.com/Eudes Charles"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Eudes Charles" /></a>
+    </div>
+</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=833BD4&background=000000F8&center=true&random=false&width=1000&height=100&lines=Hello+there+!+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+Eudes+Charles;A+passionate+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+254-Kenya" alt="Typing SVG" /></a>
 
@@ -57,3 +59,10 @@
 <p align="center"> 🏉 Fun fact: I love to play basket ball. </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
+
+<table>
+    <tr>
+        <th> </th>
+        <th></th>
+    </tr>
+</table>
