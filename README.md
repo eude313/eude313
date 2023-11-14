@@ -1,13 +1,14 @@
 # Hello there ! 😄
 
-<h2  align="left">Hi 👋, I'm Eudes Charles</h2>
-<h3  align="left">A passionate frontend developer from 254 Kenya</h3>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=833BD4&background=000000F8&center=true&random=false&width=1000&height=100&lines=Hello+there+!+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+Eudes+Charles;A+passionate+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+254-Kenya" alt="Typing SVG" /></a>
 
-<p><img align="center" src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="eude313" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eude313&label=Profile%20views&color=0e75b6&style=flat" alt="eude313" /> </p>
+<table style="width:100%">
+  <tr>
+	<th><img align="center" src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="eude313" /></th>
+    <th> <img src="https://komarev.com/ghpvc/?username=eude313&label=Profile%20views&color=0e75b6&style=flat" alt="eude313" /></th>
+    <th> </th>
+  </tr>
+</table>
 
 - 🌱 I’m currently building applications with **React**, **Tailwind Css**, **Python3**, **Styled Components**, **Mui** and **Next js**.
 
@@ -40,12 +41,12 @@
 
 <p><img align="center" src="https://forthebadge.com/images/badges/made-with-reason.svg" alt="eude313" /></p>
 
-<p href="https://forthebadge.com">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIuNTQ2ODk3ODg4MTgzNiIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDE5Mi41NDY4OTc4ODgxODM2IDM1Ij48cmVjdCB3aWR0aD0iMTIxLjI1MDAxNTI1ODc4OTA2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMzFDNEYzIi8+PHJlY3QgeD0iMTIxLjI1MDAxNTI1ODc4OTA2IiB3aWR0aD0iNzEuMjk2ODgyNjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48dGV4dCB4PSI2MC42MjUwMDc2MjkzOTQ1MyIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlBPV0VSRUQgQlk8L3RleHQ+PHRleHQgeD0iMTU2Ljg5ODQ1NjU3MzQ4NjMzIiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkVVREVTPC90ZXh0Pjwvc3ZnPg==" alt="forthebadge">
-</p>
+# Github Stats 📈
 
-<img width="120%" src="https://github-readme-stats.vercel.app/api?username=Eude313&show_icons=true&count_private=true&hide_border=true" />
+<p align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</p>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eude313&hide_border=true&layout=compact">
+<p align="center">Always curious to learn cutting edge technology.</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&theme=midnight-purple&layout=compact" alt="Eudes" />
+<p align="center"> 🏉 Fun fact: I love to play basket ball. </p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
