@@ -42,3 +42,5 @@
 <img width="120%" src="https://github-readme-stats.vercel.app/api?username=Eude313&show_icons=true&count_private=true&hide_border=true" />
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eude313&hide_border=true&layout=compact">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&theme=midnight-purple&layout=compact" alt="Eudes" />
