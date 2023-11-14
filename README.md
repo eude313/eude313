@@ -77,14 +77,18 @@
     
 </table>
 
-<h3 align="left">Support:</h3>
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eude313&show_icons=true&locale=en&layout=compact" alt="eude313" /></p>
-
-<p><img align="center" src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="eude313" /></p>
-
-<p><img align="center" src="https://forthebadge.com/images/badges/made-with-reason.svg" alt="eude313" /></p>
+<table>
+    <tr>
+        <th>
+            <img align="center" src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="eude313" />
+        </th>
+        <th>
+            <img align="center" src="https://forthebadge.com/images/badges/made-with-reason.svg" alt="eude313" />
+        </th>
+    </tr>
+</table>
 
 # Github Stats 📈
 
@@ -95,3 +99,5 @@
 <p align="center"> 🏉 Fun fact: I love to play basket ball. </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
+
+<h3 align="left">Support:</h3>
