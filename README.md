@@ -40,8 +40,8 @@
 <img alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900" height="300" />
 <table>
     <tr>
-        <th>Front-end Technologies</th>
-        <th>Back-end Technologies</th>
+        <th width="450">Front-end Technologies</th>
+        <th width="450">Back-end Technologies</th>
     </tr>
     <tr>
         <td>
