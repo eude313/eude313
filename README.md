@@ -37,7 +37,7 @@
     </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="200" />
+<img alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800" height="200" />
 <table>
     <tr>
         <th>Front-end Technologies</th>
