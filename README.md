@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=833BD4&background=000000F8&center=true&random=false&width=1000&height=100&lines=Hello+there+!+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+Eudes+Charles;A+passionate+full+stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+254-Kenya" alt="Typing SVG" /></a>
+<video src="./video/177572 (1080p).mp4" alt="coding"></video>
 
 <table>
   <tr>
@@ -77,7 +78,7 @@
     
 </table>
 
-<br><br>
+<br>
 
 <table>
     <tr>
@@ -96,7 +97,7 @@
 
 <p align="center">Always curious to learn cutting edge technology.</p>
 
-<p align="center"> 🏉 Fun fact: I love to play basket ball. </p>
+<p align="center"> 🏀 Fun fact: I love to play basket ball. </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
 
