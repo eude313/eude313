@@ -1,4 +1,4 @@
-# Hello there !
+# Hello there ! 😄
 
 <h2  align="left">Hi 👋, I'm Eudes Charles</h2>
 <h3  align="left">A passionate frontend developer from 254 Kenya</h3>
@@ -7,15 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eude313&label=Profile%20views&color=0e75b6&style=flat" alt="eude313" /> </p>
 
-- 🔭 I’m currently working on **Hustle**
+- 🌱 I’m currently building applications with **React**, **Tailwind Css**, **Python3**, **Styled Components**, **Mui** and **Next js**.
 
-- 🌱 I’m currently learning **next js,**
+- 🔭 Also working on creating **API's** with **DjangoRestFrameWork**.
+- 💬 Ask me about anything related to **Frontend technologies** or **Backend technologies**.
 
-- 👯 I’m looking to collaborate on **springboot,JavaScript,React Projects**
+- ⚡ Fun fact: I use tabs over spaces.
 
 - 👨‍💻 All of my projects are available at [https://adorable-licorice-593c7e.netlify.app/](https://adorable-licorice-593c7e.netlify.app/)
-
-- 💬 Ask me about **react, vue, python,js**
 
 - 📫 How to reach me **charleseudes9@gmail.com**
 
@@ -39,3 +38,7 @@
 <p href="https://forthebadge.com">
   <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIuNTQ2ODk3ODg4MTgzNiIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDE5Mi41NDY4OTc4ODgxODM2IDM1Ij48cmVjdCB3aWR0aD0iMTIxLjI1MDAxNTI1ODc4OTA2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMzFDNEYzIi8+PHJlY3QgeD0iMTIxLjI1MDAxNTI1ODc4OTA2IiB3aWR0aD0iNzEuMjk2ODgyNjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48dGV4dCB4PSI2MC42MjUwMDc2MjkzOTQ1MyIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlBPV0VSRUQgQlk8L3RleHQ+PHRleHQgeD0iMTU2Ljg5ODQ1NjU3MzQ4NjMzIiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkVVREVTPC90ZXh0Pjwvc3ZnPg==" alt="forthebadge">
 </p>
+
+<img width="120%" src="https://github-readme-stats.vercel.app/api?username=Eude313&show_icons=true&count_private=true&hide_border=true" />
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eude313&hide_border=true&layout=compact">
