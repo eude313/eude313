@@ -1,4 +1,4 @@
-<diV>
+<diV style="display: flex">
     <p align="left">
         <strong> Hello there ! 😄</strong>
     </p>
