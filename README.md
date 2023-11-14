@@ -6,7 +6,9 @@
   <tr>
 	<th><img align="center" src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="eude313" /></th>
     <th> <img src="https://komarev.com/ghpvc/?username=eude313&label=Profile%20views&color=0e75b6&style=flat" alt="eude313" /></th>
-    <th> </th>
+    <th>
+    <img src=" https://forthebadge.com/images/featured/featured-built-with-love.svg" alt="eude313" />
+    </th>
   </tr>
 </table>
 
