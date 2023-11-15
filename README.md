@@ -100,13 +100,17 @@
 # Github Stats 📈
 
 <p align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</p>
+<div style="display: flex;" align="center" >
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
 
+</div>
 <p align="center">Always curious to learn cutting edge technology.</p>
 
 <p align="center"> 🏀 Fun fact: I love to play basket ball. </p>
 
 
-<div  style="display: flex;"  align="center">
+<div align="center">
     <p>
         <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="eude313" />
     </p>
@@ -114,10 +118,5 @@
 </div>
 
 
-<div style="display: flex;" align="center" >
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
-
-</div>
 
 <hr>
