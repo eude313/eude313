@@ -36,9 +36,12 @@
   <br>
 
 <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://linkedin.com/in/eudes-charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eudes-charles" height="30" width="40" /></a>
-    </p>
+
+<p align="left">
+    <a href="https://linkedin.com/in/eudes-charles" target="blank">
+        <p>Linkedin</p>
+    </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <img alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900" height="300" />
