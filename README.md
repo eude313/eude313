@@ -35,7 +35,7 @@
   <br>
   <br>
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 
 <p align="left">
     <a href="https://linkedin.com/in/eudes-charles" target="blank">
@@ -43,7 +43,8 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
+
 <img alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900" height="300" />
 <table>
     <tr>
@@ -86,7 +87,7 @@
 
 <br>
 
-<table>
+<table align="center" >
     <tr>
         <th>
             <img align="center" src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="eude313" />
