@@ -33,8 +33,6 @@
 
 - 📫 How to reach me **charleseudes9@gmail.com**
 <br>
-<br>
-
 ### 🤝🏻  &nbsp; Let's Connect 
 
 - linkedIn: [Eudes Charles](https://linkedin.com/in/eudes-charles)
@@ -102,7 +100,7 @@
 # Github Stats 📈
 
 <p align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</p>
-<div style="display: flex;">
+<div style="display: flex;" align="center" >
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
 
