@@ -40,7 +40,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/eudes-charles" target="blank">
         <p>
-            Linked<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eudes-charles" height="16" width="20" />
+            Linked<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eudes-charles" height="16" width="20" />
         </p>
     </a>
 </p>
