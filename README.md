@@ -32,16 +32,18 @@
 - 👨‍💻 All of my projects are available at [https://adorable-licorice-593c7e.netlify.app/](https://adorable-licorice-593c7e.netlify.app/)
 
 - 📫 How to reach me **charleseudes9@gmail.com**
-  <br>
-  <br>
+<br>
+<br>
 
-# Connect with me 🔗
+<h1>
+Connect with me 🔗
+</h1>
 
-<p align="left">
+<h3>
     <a href="https://linkedin.com/in/eudes-charles" target="blank">
         Linked<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eudes-charles" height="16" width="20" />
     </a>
-</p>
+</h3>
 
 # Languages and Tools 🌐
 
