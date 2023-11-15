@@ -104,8 +104,10 @@
 <p align="center">Always curious to learn cutting edge technology.</p>
 
 <p align="center"> 🏀 Fun fact: I love to play basket ball. </p>
+<p align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="eude313" />
+</p>
 
-<img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg" alt="eude313" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
 
 <h3 align="left">Support:</h3>
