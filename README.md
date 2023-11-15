@@ -35,16 +35,12 @@
 <br>
 <br>
 
-<h1>
-Connect with me 🔗
-</h1>
+### 🤝🏻  &nbsp; Let's Connect 
 
-<h3>
-    <a href="https://linkedin.com/in/eudes-charles" target="blank">
-        Linked<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eudes-charles" height="16" width="20" />
-    </a>
-</h3>
-
+- linkedIn: [Eudes Charles](https://linkedin.com/in/eudes-charles)
+- mobile: @Eudes +25423731295
+- email: eudescharles@gmail.com
+<br>
 # Languages and Tools 🌐
 
 <img alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900" height="300" />
@@ -122,4 +118,5 @@ Connect with me 🔗
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
 
-<h3 align="left">Support:</h3>
+
+<hr>
