@@ -35,7 +35,7 @@
   <br>
   <br>
 
-# Connect with me:
+# Connect with me 🔗
 
 <p align="left">
     <a href="https://linkedin.com/in/eudes-charles" target="blank">
@@ -43,7 +43,7 @@
     </a>
 </p>
 
-# Languages and Tools:
+# Languages and Tools 🌐
 
 <img alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="900" height="300" />
 <table>
@@ -108,9 +108,15 @@
 <p align="center">Always curious to learn cutting edge technology.</p>
 
 <p align="center"> 🏀 Fun fact: I love to play basket ball. </p>
-<p align="center">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="eude313" />
-</p>
+
+
+<div align="center">
+    <p>
+        <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="eude313" />
+    </p>
+    <a href="https://www.buymeacoffee.com/eudes"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Eudes Charles" /></a>
+</div>
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eude313&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact" alt="Eudes" />
 
