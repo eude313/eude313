@@ -10,6 +10,7 @@
         <img align="center" src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="eude313" />
     </th>
     <th>
+        [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMTQuODI4MTYzMTQ2OTcyNjYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAyMTQuODI4MTYzMTQ2OTcyNjYgMzUiPjxyZWN0IHdpZHRoPSIxMjEuMjUwMDIyODg4MTgzNiIgaGVpZ2h0PSIzNSIgZmlsbD0iI2UzNmQyNSIvPjxyZWN0IHg9IjEyMS4yNTAwMjI4ODgxODM2IiB3aWR0aD0iOTMuNTc4MTQwMjU4Nzg5MDYiIGhlaWdodD0iMzUiIGZpbGw9IiNkMTVkMjciLz48dGV4dCB4PSI2MC42MjUwMTE0NDQwOTE4IiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+UE9XRVJFRCBCWTwvdGV4dD48dGV4dCB4PSIxNjguMDM5MDkzMDE3NTc4MTIiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+RVVERVMg4pyoPC90ZXh0Pjwvc3ZnPg==)](https://forthebadge.com)
         <img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg" alt="eude313" />
     </th>
     <th> 
