@@ -34,7 +34,7 @@
 - 📫 How to reach me **charleseudes9@gmail.com**
 <br>
 
-## 🤝🏻  &nbsp; Let's Connect 
+##  &nbsp; Let's Connect  🤝🏻
 
 - linkedIn: [Eudes Charles](https://linkedin.com/in/eudes-charles)
 - mobile: @Eudes +25423731295
